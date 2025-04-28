@@ -77,7 +77,6 @@ int main() {
     std::vector<int> maxValues = {1000, 2000, 4000, 5000};
     std::cout << "\n";
  std::cout << "\n";
- std::cout << "Name: Durgesh Sonar Roll no: 41263 CLass: BE B\n";
  std::cout << "\n";
  std::cout << "\n";
     std::cout << "---------------------------------------------------------------------------------------------------\n";
