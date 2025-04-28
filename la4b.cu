@@ -106,7 +106,6 @@ void runMatrixMultiplication(int N) {
 int main() {
 std::cout << "\n";
    std::cout << "\n";
- std::cout << "Name: Kasturi Kulkarni Roll no: 41035 CLass: BE A\n";
  std::cout << "\n";
  std::cout << "\n";
     std::cout << "\n==== Matrix Multiplication Tests ====\n";
